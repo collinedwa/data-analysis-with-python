@@ -1,2 +1,3 @@
-# data-analysis-with-python
-Projects intended to demonstrate competence in Data Analysis using Python modules such as NumPy and Pandas
+# Finished projects from freeCodeCamp's Data Analysis with Python module
+https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-projects(https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-projects)
+----------------
